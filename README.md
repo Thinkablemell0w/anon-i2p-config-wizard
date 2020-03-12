@@ -1,8 +1,8 @@
-# anon-i2p-config-wizard
+# i2p-config-wizard
 cli config wizard for I2P
 
 
-Settings list:
+### Settings list:
 
 **Bandwidth settings**
   * Upload
