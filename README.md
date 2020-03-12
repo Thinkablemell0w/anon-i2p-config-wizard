@@ -4,24 +4,21 @@ cli config wizard for I2P
 
 Settings list:
 
-
-Bandwidth settings
-
-
+**Bandwidth settings**
   * Upload
   * Download
   
-Tunnel settings
+**Tunnel settings**
   * Length of In-Out Tunnels
   * Quantity 
   * Backups
   
-I2Psnark settings
+**I2Psnark settings**
   * Length of In-Out Tunnels
   * Quantity 
   * autostart	
   
-Router Console settings
+**Router Console settings**
   * Password
   * Graphs
   * Logs
@@ -29,15 +26,15 @@ Router Console settings
   * summaryBar
   * search engine (if one works again)
   
-Webapps settings
+**Webapps settings**
   * i2psnark
   * susimail
   * jetty
   
-RAM settings
+**RAM settings**
   * set RAM
   
-Privoxy settings
+**Privoxy settings**
   * trustfile
   * tlds
   * blocks 
